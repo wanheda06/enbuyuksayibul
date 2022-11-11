@@ -13,7 +13,7 @@ public class Main {
         if (wieksza < liczby3) {
             wieksza = liczby3;
         }
-
+        System.out.println();
         System.out.println("większa liczba jest: " + wieksza);
     }
 }
