@@ -14,6 +14,8 @@ public class Main {
             wieksza = liczby3;
         }
         System.out.println();
+        System.out.println();
+        System.out.println();
         System.out.println("większa liczba jest: " + wieksza);
     }
 }
